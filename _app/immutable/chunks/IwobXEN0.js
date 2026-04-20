@@ -1,0 +1,1 @@
+import{r,H as s}from"./BvvJeDRB.js";import{r as a,h as o}from"./3h0gMDeI.js";const c=()=>r(s.SeeOther,"/settings#team"),i=async e=>{const t=await a(e,"GET","/teams");return o(t,[])};export{i as g,c as r};

@@ -1,0 +1,1 @@
+import{f as o,a as m}from"./CduqQino.js";import{c as l,r as s}from"./D3m15_D4.js";import{S as f}from"./Bi9-GMwo.js";var n=o('<h1 class="my-4 font-medium sm:text-lg md:text-2xl lg:my-8 lg:text-3xl lg:font-bold"><!></h1>');function g(r,a){var t=n(),e=l(t);f(e,{get value(){return a.value}}),s(t),m(r,t)}export{g as H};
